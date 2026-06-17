@@ -11,7 +11,19 @@ const images = [
     { id: 9, src: 'Assets/airplanes.jpg', title: 'airplanes', category: 'Travel' },
     { id: 10, src: 'Assets/plated-dishes.jpg', title: 'Plated dishes', category: 'Food' },
     { id: 11, src: 'Assets/coffee-art.jpg', title: 'coffee art', category: 'Food' },
-    { id: 12, src: 'Assets/dessert.jpg', title: 'dessert', category: 'Food' }
+    { id: 12, src: 'Assets/dessert.jpg', title: 'dessert', category: 'Food' },
+    { id: 13, src: 'Assets/landscapes.jpg', title: 'landscapes 2', category: 'Nature' },
+    { id: 14, src: 'Assets/forest.jpg', title: 'forest 2', category: 'Nature' },
+    { id: 15, src: 'Assets/quiet-lake.jpg', title: 'quiet lake 2', category: 'Nature' },
+    { id: 16, src: 'Assets/dog.jpg', title: 'dog 2', category: 'Animals' },
+    { id: 17, src: 'Assets/cat.jpg', title: 'cat 2', category: 'Animals' },
+    { id: 18, src: 'Assets/bird.jpg', title: 'bird 2', category: 'Animals' },
+    { id: 19, src: 'Assets/cityscapes.jpg', title: 'cityscapes 2', category: 'Travel' },
+    { id: 20, src: 'Assets/the-louvre-pyramid.jpg', title: 'The Louvre Pyramid 2', category: 'Travel' },
+    { id: 21, src: 'Assets/airplanes.jpg', title: 'airplanes 2', category: 'Travel' },
+    { id: 22, src: 'Assets/plated-dishes.jpg', title: 'Plated dishes 2', category: 'Food' },
+    { id: 23, src: 'Assets/coffee-art.jpg', title: 'coffee art 2', category: 'Food' },
+    { id: 24, src: 'Assets/dessert.jpg', title: 'dessert 2', category: 'Food' }
 ];
 
 // State
